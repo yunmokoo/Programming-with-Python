@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=8mAITcNt710&
 ### Harvard CS50’s Introduction to Programming with Python – Full University Course
 
 https://www.youtube.com/watch?v=nLRL_NcnK-4
+
+
+Notes taken are planned to be scanned and posted or archive purposes.
